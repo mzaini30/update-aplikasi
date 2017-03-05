@@ -1,1 +1,1 @@
-sha = "http://intip.in/domikado"
+sha = "domikado makan es cendol"
